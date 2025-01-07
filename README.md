@@ -564,7 +564,47 @@
 
 
 
-    
+    #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/trans7.png" group-title="🇮🇩 LOKAL ID HD",TRANS 7 HD
+http://nonton.site:8088//DZqjznfyyn/3Q9O2vucT6/35
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/transtv.png" group-title="🇮🇩 LOKAL ID HD",TRANS TV HD
+http://nonton.site:8088//DZqjznfyyn/3Q9O2vucT6/34
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png" group-title="🇮🇩 LOKAL ID HD",INDOSIAR HD
+http://nonton.site:8088//DZqjznfyyn/3Q9O2vucT6/1845
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png" group-title="🇮🇩 LOKAL ID HD",SCTV HD
+http://play-gachor.online/v2mig/4x4CjQ7Rgs/6
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/rcti.png" group-title="🇮🇩 LOKAL ID HD",RCTI HD
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/mnctv.png" group-title="🇮🇩 LOKAL ID HD",MNC TV HD
+https://master-premium.my.id/live/Maumalingya12/Ohyagakbisa12/309.ts
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/gtv.png" group-title="🇮🇩 LOKAL ID HD",GTV HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
+https://1a-gtv.rctiplus.id/gtv-sdi.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
+#EXTINF:-1 group-title="🇮🇩 LOKAL ID HD" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/inews.png", INEWS 
+https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/antv.png" group-title="🇮🇩 LOKAL ID HD",ANTV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/tvone.png" group-title="🇮🇩 LOKAL ID HD",TV ONE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/nettv.png" group-title="🇮🇩 LOKAL ID HD",NET TV HD
+http://nonton.site:8088//DZqjznfyyn/3Q9O2vucT6/24
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/metrotv.png" group-title="🇮🇩 LOKAL ID HD",METRO TV HD
+http://nonton.site:8088//DZqjznfyyn/3Q9O2vucT6/1697
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/kompastv.png" group-title="🇮🇩 LOKAL ID HD",KOMPAS TV HD
+http://nonton.site:8088//DZqjznfyyn/3Q9O2vucT6/30
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/rtv.png" group-title="🇮🇩 LOKAL ID HD",RTV HD
+http://nonton.site:8088//DZqjznfyyn/3Q9O2vucT6/37
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/beritasatu.png" group-title="🇮🇩 LOKAL ID HD",BERITA SATU HD
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
     
     
     
